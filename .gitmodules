@@ -1,0 +1,4 @@
+[submodule "MPCC"]
+path = MPCC
+url = https://github.com/yourusername/MPCC.git
+
